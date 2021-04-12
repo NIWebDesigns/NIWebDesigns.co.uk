@@ -10,12 +10,3 @@
 <a href="https://github.com/itsmat32143"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" height="40px" width="40px"/>
 <a href="https://www.reddit.com/user/itsmat32143"><img src="https://image.flaticon.com/icons/svg/356/356041.svg" height="40px" width="40px"/>
 </html>
-<br>
-<div> 
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=/NIWebDesigns&show_icons=true"/>
-</p>
-
-
-<p align="center">
-<a href="https://itsmat32143.github.io/itsmat32143"><img src="https://mxred.org/wp-content/uploads/2012/12/PayPal-Donate-Button-Transparent-e1496153762702.png" height="100px" width="200px"/></a>
