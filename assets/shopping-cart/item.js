@@ -1,0 +1,2 @@
+
+var btn=document.querySelector("a"),removeBtn=document.querySelector(".remove-btn");btn&&btn.addEventListener("click",function(){var a=AMP.getState("cart");btn.classList.add("disabled");a.then(function(a){localStorage.setItem("cart",a);setTimeout(function(){btn.classList.remove("disabled")},2E3)})});removeBtn&&removeBtn.addEventListener("click",function(){AMP.getState("cart").then(function(a){localStorage.setItem("cart",a)})});
